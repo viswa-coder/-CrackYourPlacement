@@ -1,7 +1,3 @@
 git add .
-git commit -m "Day 1: Solved array problems"
-git push -u origin main or simply git push
-
-For subsequent pushes, once you have set the upstream branch with -u, you can simply use:
-
-git push
+git commit -m "Day 0: Intial setup and Practice"
+git push -u origin main 
